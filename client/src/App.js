@@ -17,6 +17,7 @@ function App() {
       >
         get data
       </button>
+      와 한번 만들어 봤어요!!~~~~~~
     </div>
   );
 }
