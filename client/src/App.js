@@ -3,6 +3,7 @@ import React from "react";
 function App() {
   return (
     <div className="App">
+      <h1>{process.env.REACT_APP_DB_HOST}</h1>
       <button
         type="button"
         onClick={() => {
